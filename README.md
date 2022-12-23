@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishabhKash
+- 👋 Hi, I’m @Rishabh
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning semantic processing
 - 💞️ I’m looking to collaborate on ...
