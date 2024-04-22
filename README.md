@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning semantic processing
+- 👀 I’m interested in machine learning & optimisation
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me on rishabh.teresa@gmail.com
 
